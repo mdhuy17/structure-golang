@@ -1,0 +1,4 @@
+
+{
+   "db": "root:root@tcp(localhost:3306)/my_database?charset=utf8&parseTime=True&charset=utf8mb4&collation=utf8mb4_unicode_ci"
+}
